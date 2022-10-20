@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-image.png
+ttt.png
 
 Just a smol tic tac toe bot I made with the master branch of [discord.js](https://github.com/discordjs/discord.js)
 
@@ -21,6 +21,8 @@ Once you have sucessfully invited the bot to your server, you need to install th
 
 Run `npm install` to install all of the dependencies
 
+npminstall.png
+
 Now you need to put your bot token in a `.env` file.
 You will also need to put the guild ID of the server you want the bot to be in.
 
@@ -32,6 +34,8 @@ GUILD=<GUILD ID>
 Start the bot with `node index.js` and it should be online!
 
 You now need to deploy the slash commands. Use the `?deploy` command to deploy all of the commands to Discord.
+
+deploy.png
 
 Now you can do `/ping` and should get a response!
 
