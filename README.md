@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-![Demo]()
+image.png
 
 Just a smol tic tac toe bot I made with the master branch of [discord.js](https://github.com/discordjs/discord.js)
 
